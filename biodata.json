@@ -1,0 +1,66 @@
+[
+    {
+        "nama": "Sumbul",
+        "nim": "3337260011",
+        "prodi": "Informatika",
+        "jenkel": "Pria",
+        "alamat": "Jl. Kesana Kesini",
+        "hobi": [
+            "Membaca"
+        ]
+    },
+    {
+        "nama": "Heri",
+        "nim": "3337280021",
+        "prodi": "Informatika",
+        "jenkel": "Pria",
+        "alamat": "Jl. Aja Dulu",
+        "hobi": [
+            "Bermain Game"
+        ]
+    },
+    {
+        "nama": "Alex Bizzer",
+        "nim": "333150969",
+        "prodi": "Teknik Elektro",
+        "jenkel": "Pria",
+        "alamat": "Jl. Jalan Ke Kamboja",
+        "hobi": [
+            "Menonton Film"
+        ]
+    },
+    {
+        "nama": "Gabby",
+        "nim": "333220011",
+        "prodi": "Sistem Informasi",
+        "jenkel": "Wanita",
+        "alamat": "Gg. Uan Jiwa",
+        "hobi": [
+            "Menonton Film"
+        ]
+    },
+    {
+        "nama": "Ara",
+        "nim": "3335260055",
+        "prodi": "Teknik Elektro",
+        "jenkel": "Wanita",
+        "alamat": "Jl. Mulu",
+        "hobi": [
+            "Membaca",
+            "Berolahraga"
+        ]
+    },
+    {
+        "nama": "Takefusa",
+        "nim": "3335290088",
+        "prodi": "Sistem Informasi",
+        "jenkel": "Pria",
+        "alamat": "Jl. Doang Kagak Jadian",
+        "hobi": [
+            "Membaca",
+            "Berolahraga",
+            "Menonton Film",
+            "Bermain Game"
+        ]
+    }
+]
